@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{FC66B1BF-2C58-40D2-818C-D220BDF4A285}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.ScreenRecorder.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_24" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ScreenRecorder.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2910AC2D-0F66-4E5C-9B64-64415A5531CB" />
+  <MultiItemStartupConfigurations />
+</Properties>
